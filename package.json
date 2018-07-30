@@ -3,7 +3,7 @@
     "name": "apolloClient"
   },
   "name": "egg-apollo-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "egg apollo client",
   "main": "app.js",
   "scripts": {
@@ -30,6 +30,7 @@
     "apollo-client": "^2.3.7",
     "apollo-link-http": "^1.5.4",
     "graphql": "^0.13.2",
+    "graphql-tag": "^2.9.2",
     "node-fetch": "^2.2.0"
   }
 }
